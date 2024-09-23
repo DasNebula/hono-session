@@ -1,5 +1,6 @@
 # prod
-dist/
+# Serving from Github
+# dist/
 
 # dev
 .yarn/
